@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\bin\Debug\netstandard2.0\MyCalculLib.deps.json
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\bin\Debug\netstandard2.0\MyCalculLib.dll
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\bin\Debug\netstandard2.0\MyCalculLib.pdb
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\obj\Debug\netstandard2.0\MyCalculLib.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\obj\Debug\netstandard2.0\MyCalculLib.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\obj\Debug\netstandard2.0\MyCalculLib.AssemblyInfo.cs
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\obj\Debug\netstandard2.0\MyCalculLib.dll
+C:\Users\User\source\repos\MyCalculLib\MyCalculLib\obj\Debug\netstandard2.0\MyCalculLib.pdb
